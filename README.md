@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my professional portfolio. I created this to house my future projects and showcase my work. I will continue to be update this as I complete new and exciting projects. I learned a lot about CSS (especially FlexBox) during this project. I also was able to practice atomic css.
+This is my professional portfolio. I created this to house my future projects and showcase my work. I will continue to be update this as I complete new and exciting projects. I learned a lot about CSS (especially FlexBox) during this project. I also was able to practice atomic css. I designed the mobile version first, then converted that to desktop.
 
 ## License
 
