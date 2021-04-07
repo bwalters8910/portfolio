@@ -4,25 +4,100 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brian Walters</title>
-    <link rel = "stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Brian's Profile</title>
 </head>
-<body>
-    <header>
-        <ul>
-            <li class=hdr-list><a href="https://github.com/bwalters8910">GitHub</a></li>
-            <li class=hdr-list><a href="https://www.linkedin.com/in/brian-walters-686b85205/">LinkedIn</a></li>
-            <li class=hdr-list><a href="mailto:brianwalters.u.northwestern.edu">Contact</a></li>
-        </ul>
+<body class="m-0">
+    <!-- Header -->
+
+    <header class = "bgc-spacecadet">
+        <h1 class="c-lightgrey d-f fxd-r jc-c m-0 p-8px">Brian Walters</h1>
+
+    <!--Nav Bar  -->
+            <nav class = "bgc-lightyellow">
+                <ul class= "d-f fxd-r jc-sa list-n p-0">
+                    <li>
+                        <a class="td-n" href = "#Bio">Bio</a>
+                    </li>
+                    <li>
+                        <a class="td-n" href = "#Projects-Apps">Projects/Apps</a>
+                    </li>
+                    <li>
+                        <a class="td-n" href="#Contact">Contact</a>
+                    </li>
+                </ul>
+            </nav>
     </header>
-    <section>
-        <h1>Brian's Portfolio</h1>
-            <div>
-                <img src="./assets/images/brians image.jfif" alt="Brian's image"/>
-            </div>
-    </section>
+    <main>
+    <!-- Brian's Image -->
+        <div class = "d-f fxd-r jc-c">
+            <img src="./assets/images/brians image.jfif" alt="Brian's Profile Pic">
+        </div>
+    <!-- Bio -->
+            <h2 id="Bio" class="bgc-spacecadet c-lightgrey d-f fxd-r jc-c">Bio</h2>
+            <p class = "ta-c bio">My background is in inside sales and account management, however I've enrolled in the Northwestern Coding Bootcamp to gain the knowledge and expertise needed to become a web developer. My goal after bootcamp is to land a job as a junior developer at a medium-sized or large company, where I'll be supported and can learn from more experienced team members. My hobbies include sports, videogames, cooking, and listening to live music. One thing I can't live without is coffee!</p>
+
+    <!--Projects Section  -->
+        <section id="Projects-Apps" class="d-f fxd-c jc-se">
+            <h2 class="bgc-spacecadet c-lightgrey d-f fxd-r jc-se">Projects/Apps</h2>
+
+    <!--Tiles -->
+        <div class="tiles"> 
+            <section class= "bgc-lightyellow bds-s bdw-1px m-10px p-10px">
+                 <header class="c-spacecadet ta-c p-20px"><strong>Refactoring Project</strong></header>
+                 <a href="https://bwalters8910.github.io/hw1/" target="_blank" rel="noopener noreferrer">
+                    <img class="d-f img-link jc-c m-a w-100" src="assets/images/pexels-pixabay-270360 (1).jpg" alt="HTML Elements">
+                </a>
+                    <p class="c-space cadet ta-c"><strong>HTML / CSS</strong></p>
+            </section>
+ 
+            <section class= "bgc-lightyellow bds-s bdw-1px m-10px p-10px">
+                <header class="ta-c p-20px">Project 2</header>
+                <img class="d-f jc-c m-a" src="assets/images/placeholder.jpg" alt="placeholder image">
+                <p class="ta-c">TBA</p>
+           </section>
+
+           <section class= "bgc-lightyellow bds-s bdw-1px m-10px p-10px">
+                <header class="ta-c p-20px">Project 3</header>
+                <img class="d-f jc-c m-a" src="assets/images/placeholder.jpg" alt="placeholder image">
+                <p class="ta-c">TBA</p>
+            </section>
+
+            <section class= "bgc-lightyellow bds-s bdw-1px m-10px px p-10px">
+                <header class="ta-c p-20px">Project 4</header>
+                <img class="d-f jc-c m-a" src="assets/images/placeholder.jpg" alt="placeholder image">
+                <p class="ta-c">TBA</p>
+           </section>
+
+           <section class= "bgc-lightyellow bds-s bdw-1px m-10px px p-10px">
+                <header class="ta-c p-20px">Project 5</header>
+                <img class="d-f jc-c m-a" src="assets/images/placeholder.jpg" alt="placeholder image">
+                <p class="ta-c">TBA</p>
+             </section>
+
+            <section class= "bgc-lightyellow bds-s bdw-1px m-10px px p-10px">
+                <header class="ta-c p-20px">Project 6</header>
+                <img class="d-f jc-c m-a" src="assets/images/placeholder.jpg" alt="placeholder image">
+                <p class="ta-c">TBA</p>
+            </section>
+        </div> 
+        </section>
+    </main>
+
+    <!-- Footer -->
+
     <footer>
-        <p>Don't judge me! :-)</p>
+
+    <!-- Contact Info -->
+        <h2 id="Contact" class="bgc-spacecadet c-lightgrey d-f fxd-r jc-c">Contact</h2>
+            <ul class="bgc-lightyellow d-f fxd-r jc-sa list-n p-0">
+                <li class=hdr-list><a class="td-n" href="mailto:brianwalters.u.northwestern.edu">Email</a></li>
+                <li class=hdr-list><a class="td-n" href="https://github.com/bwalters8910" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+                <li class=hdr-list><a class="td-n" href="https://www.linkedin.com/in/brian-walters-686b85205/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                
+            </ul>   
+
     </footer>
+    
 </body>
 </html>
