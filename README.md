@@ -7,7 +7,7 @@ This is my professional portfolio. I created this to house my future projects an
 
 ![screenshot](assets/images/screenshot1.PNG)
 
-![screenshot](assets/images/screenshot2.PNG)
+![screenshottwo](assets/images/screeenshot2.PNG)
 
 ## License
 
