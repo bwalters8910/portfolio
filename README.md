@@ -2,13 +2,13 @@
 
 ## Description
 
-This is my professional portfolio. I created this to house my future projects and showcase my work. I will continue to be update this as I complete new and exciting projects. I learned a lot about CSS (especially FlexBox) during this project. I also was able to practice atomic css.
+This is my professional portfolio. I created this to house my future projects and showcase my work. I will continue to be update this as I complete new and exciting projects. I learned a lot about CSS (especially FlexBox) during this project. I also was able to practice atomic css. I designed the mobile version first, then converted that to desktop.
 
 ## License
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Brian Walters]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
