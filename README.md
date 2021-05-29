@@ -1,8 +1,12 @@
-# <Portfolio>
+# Portfolio
 
 ## Description
 
-This is my professional portfolio. I created this to house my future projects and showcase my work. I will continue to be update this as I complete new and exciting projects. I learned a lot about CSS (especially FlexBox) during this project. I also was able to practice atomic css. I designed the mobile version first, then converted that to desktop.
+This is my professional portfolio. I created this to house my future projects and showcase my work. I will continue to update this as I complete new and exciting projects. Here is the link to the deployed site https://bwalters8910.github.io/portfolio/
+
+
+![screenshot](assets/images/screenshot1.png)
+![screenshot](assets/images/screenshot2.png)
 
 ## License
 
