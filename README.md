@@ -5,8 +5,9 @@
 This is my professional portfolio. I created this to house my future projects and showcase my work. I will continue to update this as I complete new and exciting projects. Here is the link to the deployed site https://bwalters8910.github.io/portfolio/
 
 
-![screenshot](assets/images/screenshot1.png)
-![screenshot](assets/images/screenshot2.png)
+![screenshot](assets/images/screenshot1.PNG)
+
+![screenshottwo](assets/images/screeenshot2.PNG)
 
 ## License
 
