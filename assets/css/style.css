@@ -131,6 +131,16 @@ a:hover {
     width: 100%;
 }
 
+@media screen and (max-width: 500px) {
+    .nav {
+        display:flex;
+        flex-direction: column;
+        margin: auto;
+        padding: auto;
+        align-items: center;
+    }
+}
+
 @media screen and (min-width: 768px) {
     #Projects-Apps{
         display:flex;
