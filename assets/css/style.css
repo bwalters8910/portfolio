@@ -9,7 +9,7 @@ a {
 a:hover {
     color: inherit;
     text-shadow: 2px 2px 5px grey;
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .align-center {
